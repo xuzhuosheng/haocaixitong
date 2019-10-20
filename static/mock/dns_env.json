@@ -1,0 +1,18 @@
+{
+  "path0": [
+    {
+      "name": "平台API展示列表",
+      "path": "/platformApiShowList",
+      "iconName": "iconfont icon-leaf",
+      "tree": "false"
+    }
+  ],
+  "dns":{
+    "sso_name":"cas.node.com",
+    "home_name":"http://localhost",
+    "sso_host":"http://192.168.100.102:8876",
+    "home_host":"http://localhost:8877",
+    "home_url":"/",
+    "isCaslogin":false
+  }
+}
